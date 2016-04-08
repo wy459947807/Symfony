@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+wwweeewwwwwwwwwwwwwwwwwwwwww
+=======
+wwwwwwwvvv
+>>>>>>> 6af6e88ea97eddc2bc57a74433eccf9b29bdb10e
+wwww
